@@ -59,3 +59,5 @@ This project presents an interactive Sales Dashboard built using Microsoft Excel
  - Enhanced understanding of data storytelling
 
  - Gained hands-on experience in Excel dashboard development for business scenarios
+
+![image](https://github.com/user-attachments/assets/d1a19ac1-0fea-4c88-86f0-6417e52a543c)
