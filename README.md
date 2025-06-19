@@ -1,49 +1,50 @@
 # 📊 Store Sales Annual Report Dashboard (Excel Project)
 
-### 🔍 Project Overview
+## 🔍 Project Overview
 This project presents an interactive Sales Dashboard built using Microsoft Excel, providing a visual representation of a store's annual performance data. The dashboard helps track and analyze key sales metrics such as gender-wise sales distribution, order status, sales by state, and channel performance, giving stakeholders meaningful insights into business performance.
 
-### ⚙️ Key Features
-• ✅ Data Cleaning: Removed null values and duplicates to ensure data accuracy and consistency.
+## ⚙️ Key Features
+• ✅ **Data Cleaning** : Removed null values and duplicates to ensure data accuracy and consistency.
 
-• 🧮 Pivot Tables: Created dynamic Pivot Tables to summarize large datasets efficiently.
+• 🧮 **Pivot Tables**: Created dynamic Pivot Tables to summarize large datasets efficiently.
 
-• 📊 Interactive Dashboard: Built with:
+• 📊 **Interactive Dashboard** : Built with:
 
-⁃ Pie Charts (e.g., Gender-wise sales, Status-wise orders)
+   ⁃ **Pie Charts** (e.g., Gender-wise sales, Status-wise orders)
 
-⁃ Bar Charts (e.g., Order vs. Sales amount, Age vs. Gender breakdown)
+   ⁃ **Bar Charts** (e.g., Order vs. Sales amount, Age vs. Gender breakdown)
 
-⁃ Line Chart (State-wise sales amount)
+   ⁃ **Line Chart** (State-wise sales amount)
 
-⁃ Slicer Integration for Month and Channel filters to control all visual components interactively.
+   ⁃ **Slicer Integration** for Month and Channel filters to control all visual components interactively.
 
-• 🔁 Connected Visuals: All charts are interconnected using slicers, allowing dynamic filtering and instant insights with a single click.
+• 🔁 **Connected Visuals**: All charts are interconnected using slicers, allowing dynamic filtering and instant insights with a single click.
 
-### 📌 Charts & Insights Displayed
+## 📌 Charts & Insights Displayed
 
- - Men vs Women Sales – Women contributed 70% of sales.
+ - **Men vs Women Sales** – Women contributed 70% of sales.
 
- - Order Status Distribution – 95% of orders were delivered.
+ - **Order Status Distribution** – 95% of orders were delivered.
 
- - Channel Wise Orders – Meesho performed highest in terms of order count.
+ - **Channel Wise Orders** – Meesho performed highest in terms of order count.
 
- - Order Wise Sales – Peak sales observed in March, with a sum amount crossing 80 million.
+ - **Order Wise Sales** – Peak sales observed in March, with a sum amount crossing 80 million.
 
- - State-Wise Sales – Maharashtra and Gujarat were top-performing regions.
+ - **State-Wise Sales** – Maharashtra and Gujarat were top-performing regions.
 
- - Order by Age vs Gender – Adults (especially women) formed the largest buying group.
+ - **Order by Age vs Gender** – Adults (especially women) formed the largest buying group.
 
-### 🛠 Tools & Technologies Used
+## 🛠 Tools & Technologies Used
  - Microsoft Excel (Pivot Tables, Charts, Slicers, Dashboard Tools)
 
  - Data Analysis & Visualization Techniques
 
-### 📁 Files Included
+## 📁 Files Included
+
  - Store_Sales_Annual_Dashboard.xlsx – The main dashboard file with cleaned data, pivot tables, and charts.
 
-### 📈 Purpose
- - This project demonstrates my ability to:
+## 📈 Purpose
+This project demonstrates my ability to:
 
  - Work with raw data and clean it for analysis
 
@@ -53,11 +54,12 @@ This project presents an interactive Sales Dashboard built using Microsoft Excel
 
  - Communicate data findings effectively through visuals
 
-### 🧠 Learning & Takeaways
+## 🧠 Learning & Takeaways
  - Practiced end-to-end data analysis in Excel
 
  - Enhanced understanding of data storytelling
 
  - Gained hands-on experience in Excel dashboard development for business scenarios
 
-![image](https://github.com/user-attachments/assets/d1a19ac1-0fea-4c88-86f0-6417e52a543c)
+![image](https://github.com/user-attachments/assets/f25fdac5-cdd2-4927-a74e-5686d7d002f2)
+
