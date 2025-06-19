@@ -10,13 +10,13 @@ This project presents an interactive Sales Dashboard built using Microsoft Excel
 
 • 📊 Interactive Dashboard: Built with:
 
-   - Pie Charts (e.g., Gender-wise sales, Status-wise orders)
+- Pie Charts (e.g., Gender-wise sales, Status-wise orders)
 
-   - Bar Charts (e.g., Order vs. Sales amount, Age vs. Gender breakdown)
+- Bar Charts (e.g., Order vs. Sales amount, Age vs. Gender breakdown)
 
-   - Line Chart (State-wise sales amount)
+- Line Chart (State-wise sales amount)
 
-   - Slicer Integration for Month and Channel filters to control all visual components interactively.
+- Slicer Integration for Month and Channel filters to control all visual components interactively.
 
 • 🔁 Connected Visuals: All charts are interconnected using slicers, allowing dynamic filtering and instant insights with a single click.
 
